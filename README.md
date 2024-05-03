@@ -1,4 +1,4 @@
-COVID-19 Tracker App
+<b>COVID-19 Tracker App<b>
 <br>
 
 "📱 Excited to announce the successful completion of task 1 in the @LetsGrowMore virtual internship, where i successfully built an Android app - COVID-19 Tracker India! 🇮🇳
